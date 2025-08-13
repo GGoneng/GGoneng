@@ -7,9 +7,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YxbTA2Z3Z1bWZzbnJyYmF4cWMwYXBoODJ4aDE3MG52eXhra3F2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w4A4dJQcpdmIoeQ85E/giphy.gif" width = 30px height = 30px></picture> **About me**
 
 <br>
 
