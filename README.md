@@ -5,8 +5,8 @@
 ## <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YxbTA2Z3Z1bWZzbnJyYmF4cWMwYXBoODJ4aDE3MG52eXhra3F2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w4A4dJQcpdmIoeQ85E/giphy.gif" width = 30px height = 25px><b> About me</b>
 
 <br>
-- An AI engineer who is passionate and always eager to learn.
-- Currently studying both Computer Vision and Large Language Models (LLMs).
+- An AI engineer who is passionate and always eager to learn. <br>
+- Currently studying both Computer Vision and Large Language Models (LLMs). <br>
 - Always exploring new AI technologies.
 <br><br><br>
 
