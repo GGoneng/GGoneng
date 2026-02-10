@@ -10,9 +10,6 @@
 - Always exploring new AI technologies.
 <br><br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRkYmRlZHhxMDV1ZmhiNTlvbXJycXdxOG51YWJybnhoMXlsam15aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uDbWMyZ7T83Q2j7T8r/giphy.gif" width = 30px height = 30px><b> Selected Project</b>
 
 > ### 🩺 End-to-End Medical AI Inference and Web Serving
@@ -33,7 +30,7 @@
 <br>
 
 🔗 Repo: https://github.com/GGoneng/Medical-AI-Inference-System
-<br><br>
+<br><br><br><br>
 
 > ### 📷 Fall Detection System
 **Tech Stack**
@@ -53,7 +50,7 @@
 <br>
 
 🔗 Repo: https://github.com/GGoneng/Fall-Detection-System
-<br><br>
+<br><br><br><br>
 
 > ### 📈 Monitoring System For Elderly Living Alone
 **Tech Stack**
@@ -72,10 +69,8 @@
 <br>
 
 🔗 Repo: https://github.com/GGoneng/Early-Solitary-Death-Detection
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br><br><br>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
@@ -111,12 +106,7 @@
 
 </p>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
-<br>
+<br><br><br>
 
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -125,24 +115,16 @@
 <ul>
 
 <li>
-<a href="mailto:iminha0512@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  iminha0512-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+	<a href="mailto:iminha0512@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/gmail:  iminha0512-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
 </li>
-	
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-<br>
+<br><br><br>
 
-
-<br>
-
+<br><br><br>
 Credit: [Minha Lee](https://github.com/GGoneng)
 
 Last Edited on: 02/04/2026
