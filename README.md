@@ -86,16 +86,25 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<br>
+
+- **AI Framework**:
+
+	![PyTorch](https://img.shields.io/badge/PyTorch%20-%23E34F26.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+<br>
+
+- **Back-End Framework**:
+
+  	![FastAPI](https://img.shields.io/badge/FastAPI%20-%2360D6A7.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 
 <br>   
-    
-- **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- **Front-End Framework**:
 
+   ![React](https://img.shields.io/badge/React%20-%236AF2E3.svg?style=for-the-badge&logo=React&logoColor=white)
+  
 <br>
 
 - **Softwares and Tools**:
@@ -103,7 +112,8 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+	![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AWS&logoColor=black)
+	
 </p>
 
 <br><br><br>
