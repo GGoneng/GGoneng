@@ -26,7 +26,7 @@
 <br>
 
 **Results**
-- Test Multi-Class Dice Score: 0.883 → 0.912
+- Test Multi-Class Dice Score: 0.883 → 0.9487
 <br>
 
 🔗 Repo: https://github.com/GGoneng/Medical-AI-Inference-System
